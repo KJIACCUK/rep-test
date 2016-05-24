@@ -1,0 +1,18 @@
+.emoticon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-indent: -10000px;
+    cursor: text;
+    text-align: left;
+}
+.emoticon-smile { background: url('/images/smiles/smile.png') no-repeat; }
+.emoticon-stuck_out_tongue { background: url('/images/smiles/stuck_out_tongue.png') no-repeat; }
+.emoticon-hushed { background: url('/images/smiles/hushed.png') no-repeat; }
+.emoticon-angry { background: url('/images/smiles/angry.png') no-repeat; }
+.emoticon-relaxed { background: url('/images/smiles/relaxed.png') no-repeat; }
+.emoticon-cry { background: url('/images/smiles/cry.png') no-repeat; }
+.emoticon-rage { background: url('/images/smiles/rage.png') no-repeat; }
+.emoticon-imp { background: url('/images/smiles/imp.png') no-repeat; }
+.emoticon-innocent { background: url('/images/smiles/innocent.png') no-repeat; }
+.emoticon-heart { background: url('/images/smiles/heart.png') no-repeat; }

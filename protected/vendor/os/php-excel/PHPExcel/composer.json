@@ -1,0 +1,25 @@
+{
+  "name": "os/php-excel",
+  "description": "PHP Excel Library",
+  "keywords": ["excel"],
+  "homepage": "http://github.com/ouardisoft/PHPExcel",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "LOUARDI Abdeltif",
+      "email": "louardi.abdeltif@yahoo.fr",
+      "homepage": "http://phphub.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.6"
+  },
+  "minimum-stability": "dev",
+  "target-dir": "PHPExcel",
+  "autoload": {
+        "psr-0": {
+            "PHPExcel": "PHPExcel"
+        }
+    }
+}

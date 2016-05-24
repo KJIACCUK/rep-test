@@ -1,0 +1,44 @@
+.page-part-name
+{
+    display: inline;
+    font-size: 38.5px;
+}
+
+.admin-login-form-panel
+{
+    padding-left: 50px;
+}
+
+.btnRemoveVariant
+{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+#variantsWell
+{
+    margin-left: 0;
+    width: 745px;
+}
+
+.note-editor [class^="icon-"], [class*=" icon-"]
+{
+    background-image: none;
+}
+
+.product-order .field-name
+{
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.product-order .field-value
+{
+    padding: 5px;
+}
+
+.navbar .nav > li > a
+{
+    padding: 10px 14px 10px;
+}

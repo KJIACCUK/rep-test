@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="89aa203b-6b3c-48b2-9e52-5c6056104c27" name="Budutam" url="https://budutam.by">
+        <fileTransfer host="185.47.152.162" port="2200" accessType="SFTP" password="dfc9dffedf9edfc9dfdddfd3dfc7dfdedfc7" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2200" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

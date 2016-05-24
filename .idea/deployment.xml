@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Budutam" compareModeInSync="SIZE">
+    <serverData>
+      <paths name="Budutam">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/budutam/public_html" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/budutam/public_html/content" />
+            <excludedPath path="/home/budutam/public_html/.git" />
+            <excludedPath local="true" path="$PROJECT_DIR$/content" />
+            <excludedPath path="/home/budutam/public_html/apidoc" />
+            <excludedPath path="/home/budutam/public_html/assets" />
+            <excludedPath path="/home/budutam/public_html/images" />
+            <excludedPath path="/home/budutam/public_html/js" />
+            <excludedPath path="/home/budutam/public_html/css" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
